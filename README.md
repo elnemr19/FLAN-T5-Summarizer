@@ -103,4 +103,8 @@ from transformers import T5ForConditionalGeneration, T5Tokenizer
 model = T5ForConditionalGeneration.from_pretrained("./flan-t5-summarizer")
 tokenizer = T5Tokenizer.from_pretrained("./flan-t5-summarizer")
 ```
+## You can check my model from [Hugging Face](https://huggingface.co/)
+
+[flan-t5-summarizer](https://huggingface.co/AbdullahAlnemr1/flan-t5-summarizer)
+
 
